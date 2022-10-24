@@ -1,0 +1,179 @@
+body.redus {
+
+
+	background-image: url(images/20220304_225526.jpg);
+	background-size: 100% auto;
+	background-position: top center;
+	background-attachment: fixed;
+		height: 100%;
+	background-image: linear-gradient(hsl(10,90,66), transparent 70%);
+	background-size: 100% 100%;
+	mix-blend-mode: normal;
+
+
+  background-repeat: no-repeat;
+background-size: cover;
+
+}
+
+
+
+div.top {
+ margin-top: 60px;
+}
+
+p.redus {
+
+  text-align: center;
+   background-color: Crimson;
+   background-image: url("images/DSC_0176-2-2.jpg");
+  background-size: 100%;
+  width: max-content;
+  font-size: 4vw;
+  font-family: 'Times New Roman', sans-serif;
+  letter-spacing: 20px;
+  color: #fff4f4;
+  			  padding: 20px;
+  			border: 5px solid #246347;
+ margin-bottom: 20px;
+
+  margin-left: 200px;
+
+display: inline;
+
+border-radius: 5rem;
+}
+
+
+
+
+div.reseaux {
+
+      margin-top: 12px;
+     background: rgba(51, 170, 51, .2);
+
+			outline: thick double #246347;
+			  			border: 5px solid #246347;
+     border-radius: 2rem;
+			  padding: 15px;
+
+     margin-left: auto;
+
+	      margin-right: 900px;
+				  text-align: center;
+     width: max-content;
+	 
+	 
+
+    box-sizing: border-box;
+	
+    clear: left;
+	
+
+}
+
+div.reseaux a {
+overflow-wrap: break-word;
+	    font-family: 'Times New Roman', sans-serif;
+     text-shadow: 4px 4px 2px  #246347 ;
+	 font-weight: bold;
+
+	  font-size: 2.4vb;
+   text-decoration: none
+    font-family: 'Times New Roman', sans-serif;
+		    color: #ffc200;
+			
+		  margin-right: 10px;    
+			
+    
+}
+
+
+
+div.gallerie {
+   margin-bottom: 70px;
+      margin-top: 70px;
+    display: flex;
+   flex-wrap: wrap;
+   flex-direction: row;
+   align-items: start;
+    justify-content: center;
+	    margin-left: auto;
+    margin-right: auto;
+
+}
+
+div.gallerie:nth-child(2n+1) {
+  clear: left;
+}
+
+
+div.gallery {
+
+    font-size: 20px;
+    font-family: 'Times New Roman', sans-serif;
+    margin: 5px;
+    margin-top: 60px;
+    margin-left: 60;
+    margin-right: 60;
+	margin-bottom: 50px;
+    border: 1px solid #ccc;
+    width: 300px;
+    color: #fff4f4;
+    float: left;
+    box-sizing: border-box;
+    clear: left;
+}
+
+
+div.gallery:nth-child(2n+1) {
+  clear: left;
+}
+
+div.gallery:hover {
+  border: 5px solid Crimson;
+  		  font-size: 25px;
+		  white-space: initial;
+    transition-duration: 0.2s;
+	box-sizing: border-box;
+
+}
+
+div.gallery img {
+  width: 100%;
+  height: auto;
+}
+
+div.desc {
+  padding: 20px;
+  	word-break: break-word;
+  text-align: right;
+}
+
+
+
+
+
+
+
+
+
+div.porte {
+
+display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 150px;
+
+ line-height: normal;
+   width: 150px;
+  opacity: 0.3;
+  box-sizing: border-box;
+mix-blend-mode: exclusion;
+}
+
+div.porte img {
+  width: 100%;
+  height: auto;
+  mix-blend-mode: difference;
+}
