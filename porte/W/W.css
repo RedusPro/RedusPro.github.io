@@ -1,0 +1,17 @@
+body.W {
+
+	background-image: url(images/fond_test_2.jpg);
+	background-color: brown;
+	background-size: 100% auto;
+	background-position: top center;
+	background-attachment: fixed;
+		height: 100%;
+
+	background-size: 100% 100%;
+	mix-blend-mode: normal;
+
+
+  background-repeat: no-repeat;
+background-size: cover;
+
+}
