@@ -1,0 +1,14 @@
+<style>
+.text {
+	font-family: Arial;
+	font-weight: bold;
+	font-size: 500px;
+	text-shadow: #A3A3A3 1px 1px 1px;
+}
+.text .block-line > span {
+	display: inline-block;
+	  font-size: 100px;
+	  margin-top: 400px;
+}
+
+</style>
