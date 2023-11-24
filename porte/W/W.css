@@ -1,19 +1,20 @@
 body.W {
-
-	background-image: url(images/fond_test_2.jpg);
-	background-color: brown;
+    
+	
+	background-color: rgba(0, 0, 0, 1);  
 	background-size: 100% auto;
 	background-position: top center;
 	background-attachment: fixed;
 		height: 100%;
 
 	background-size: 100% 100%;
-	mix-blend-mode: normal;
 
+    background-color: rgba(0, 0, 0, 1);    /*  10% opaque green */ ;
 
-  background-repeat: no-repeat;
+    background-repeat: no-repeat;
 background-size: cover;
 text-align: center;
+
 
 }
 
