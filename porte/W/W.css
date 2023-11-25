@@ -31,9 +31,11 @@ text-align: center;
           margin: auto;
     width: 1em;
   height: 2em;
-  left: 50em;
+  left: -80em;
   right: -2em;
-  top: 228em;
+  top: 208em;
+ 
+	opacity: 0.3;
 		 
 }
 
@@ -48,7 +50,11 @@ text-align: center;
  
 }
 
-
+img{
+    max-width: 2500%;
+    max-height: 2500%;
+	 position: absolute;
+}
 
  #section1, #section2, #section3, #section4, #section5, #section6{
          margin: 5px;
