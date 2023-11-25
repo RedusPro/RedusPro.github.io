@@ -9,43 +9,51 @@ body.W {
 
 	background-size: 100% 100%;
 
-    background-color: rgba(0, 0, 0, 1);    /*  10% opaque green */ ;
+    background-color: rgba(0, 0, 0, 1);   
 
     background-repeat: no-repeat;
 background-size: cover;
 text-align: center;
 
+  max-width: 700px;
+  margin: auto;
+  word-wrap: break-word;
+  overflow: auto;
+
+}
+.content {
 
 }
 
+#sectionD{
+	 pointer-events: none;
 
- #section1, #section2, #section3, #section4, #section5, #section6,{
+          margin: auto;
+    width: 1em;
+  height: 2em;
+  left: 50em;
+  right: -2em;
+  top: 228em;
+		 
+}
+
+.loader{
+
+
+}
+
+.hitbox {
+		z-index:9999;
+ position: absolute;
+ 
+}
+
+
+
+ #section1, #section2, #section3, #section4, #section5, #section6{
          margin: 5px;
          padding: 3px;
       }
-      #section1{
- 
-      }
-      #section2{
- 
-      }
-	        }
-      #section3{
-
-      }
-	        }
-      #section4{
-
-      }
-	        }
-      #section5{
-
-      }
-	        }
-      #section6{
- 
-      }
-
 
 
 

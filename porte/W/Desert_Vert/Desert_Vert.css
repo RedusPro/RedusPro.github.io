@@ -18,6 +18,9 @@ border-radius: 5rem;
 
 overflow-wrap: break-word;
 
+  max-width: 1000px;
+  margin: auto;
+  word-wrap: break-word;
 }
 
 pre.vert {
@@ -40,4 +43,8 @@ border-radius: 5rem;
 
 overflow-wrap: break-word;
 
+}
+
+body {
+	  background-color: rgba(0, 0, 0, 1);   
 }
