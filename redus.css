@@ -188,6 +188,7 @@ div.porte img {
   width: 100%;
   height: auto;
   mix-blend-mode: difference;
+  cursor: no-drop;
 }
 
 
@@ -214,5 +215,6 @@ div.ultrarouge img {
   width: 100%;
   height: auto;
   mix-blend-mode: difference;
+  cursor: zoom-in;
 }
 
