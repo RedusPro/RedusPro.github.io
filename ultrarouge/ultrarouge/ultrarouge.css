@@ -3,6 +3,7 @@ body.bodyultrarouge{
   margin: auto;
   word-wrap: break-word;
   overflow: auto;
+  
 }
 
 
@@ -20,15 +21,13 @@ body.bodyultrarouge{
 
 
 .ultrarouge{
+	
 	 pointer-events: none;
 
-          margin: auto;
- 
+          
+ width: 100%;
 mix-blend-mode: exclusion;
- height: 1px;
-  left: 1px;
-  right: 1px;
-  top: 1px;
+
 		z-index:9999;
  position: absolute;
  
