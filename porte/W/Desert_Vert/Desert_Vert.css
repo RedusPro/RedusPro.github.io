@@ -1,9 +1,12 @@
 body {
 	  background-color: rgba(0, 0, 0, 1);   
+	  border-radius: 5rem;
+
+
 }
 
 pre.text {
-
+white-space: pre-line;
 
  text-align: center;
 
@@ -12,20 +15,24 @@ pre.text {
   font-family: 'Times New Roman', sans-serif;
 
 
-
-  
-
-
-
-
-border-radius: 5rem;
-
-overflow-wrap: break-word;
-
   max-width: 1000px;
   margin: auto;
   word-wrap: break-word;
+  
+  
+  
+	 
+  
+text-wrap: wrap;
+
+
+overflow-wrap: break-word;
 }
+
+
+
+  
+
 
 pre.vert {
 
@@ -38,14 +45,6 @@ pre.vert {
 
 
 
+
   
-
-
-
-
-border-radius: 5rem;
-
-overflow-wrap: break-word;
-
 }
-
