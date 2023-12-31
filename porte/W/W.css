@@ -36,6 +36,34 @@ text-align: center;
   height: 2em;
   left: -80em;
   right: -2em;
+  top: 200em;
+ 
+	opacity: 0.3;
+		 
+}
+
+#sectionD2{
+	 pointer-events: none;
+
+          margin: auto;
+    width: 1em;
+  height: 2em;
+  left: -80em;
+  right: 30em;
+  top: 230em;
+ 
+	opacity: 0.3;
+		 
+}
+
+#sectionD3{
+	 pointer-events: none;
+
+          margin: auto;
+    width: 1em;
+  height: 2em;
+  left: 50em;
+  right: -2em;
   top: 208em;
  
 	opacity: 0.3;
