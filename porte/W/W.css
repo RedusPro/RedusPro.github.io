@@ -21,6 +21,8 @@ text-align: center;
   margin: auto;
   word-wrap: break-word;
   overflow: auto;
+  
+  scrollbar-color: blue;
 
 }
 
@@ -70,6 +72,20 @@ text-align: center;
 		 
 }
 
+@media (max-width: 1000px) {
+	#sectionD{
+		display: none;
+		visibility: hidden;
+	}
+		#sectionD2{
+			display: none;
+		visibility: hidden;
+		}
+			#sectionD3{
+				display: none;
+		visibility: hidden;
+			}
+}
 .loader{
 
 
