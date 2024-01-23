@@ -1,0 +1,59 @@
+body.ultrarouge {
+
+ background-image: url(images/crips.webp);
+    background-size: cover;
+
+
+
+
+
+}
+
+
+
+pre.text {
+white-space: pre-line;
+
+ text-align: center;
+
+ color: blue;
+  font-size: 15px;
+  font-family: 'Times New Roman', sans-serif;
+
+
+  max-width: 1000px;
+  margin: auto;
+  word-wrap: break-word;
+  margin-top: 4%;
+  	 pointer-events: none;
+  
+	 
+  
+text-wrap: wrap;
+
+
+overflow-wrap: break-word;
+}
+
+
+div.ultrarouge {
+
+display: block;
+    margin-left: auto;
+    margin-right: auto;
+	  margin-top: 2%;
+
+ line-height: normal;
+   width: 15%;
+
+  box-sizing: border-box;
+
+	 
+	
+}
+
+div.ultrarouge img {
+  width: 100%;
+  height: auto;
+	 pointer-events: none;
+}
