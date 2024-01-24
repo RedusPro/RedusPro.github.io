@@ -57,3 +57,85 @@ div.ultrarouge img {
   height: auto;
 	 pointer-events: none;
 }
+
+
+
+img.hitbox{
+	width : 10px;
+}
+
+div.IMGRitler{
+
+
+max-width : 200px;
+max-height : 150px;
+ 
+			 pointer-events: none;
+
+          margin: auto;
+  
+  padding: 5px;
+  left: -60em;
+  right: -2em;
+  top: 20em;
+ 
+
+
+	
+		z-index:9999;
+ position: absolute;
+
+
+
+	}
+	
+	
+div.IMGHARDR{
+
+
+max-width : 200px;
+max-height : 150px;
+ 
+			 pointer-events: none;
+
+          margin: auto;
+  
+  padding: 5px;
+  left: 35em;
+  right: -2em;
+  top: 35em;
+ 
+
+
+	
+		z-index:9999;
+ position: absolute;
+
+
+
+	}
+	
+	div.IMGEOL{
+
+
+max-width : 200px;
+max-height : 150px;
+ 
+			 pointer-events: none;
+
+          margin: auto;
+  
+  padding: 5px;
+  left: -80em;
+  right: -2em;
+  top: 50em;
+ 
+
+
+	
+		z-index:9999;
+ position: absolute;
+
+
+
+	}
