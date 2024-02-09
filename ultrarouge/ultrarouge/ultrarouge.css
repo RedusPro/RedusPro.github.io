@@ -146,7 +146,7 @@ max-height : 150px;
 	
 	
 	
-	@media (max-width: 1000px) {
+	@media (max-width: 1200px) {
 		
 		div.IMGRitler{
 
@@ -163,7 +163,7 @@ max-height : 150px;
   right: -2%;
   top: 16%;
  
-
+opacity: 0.33;
 
 	
 		z-index:1;
@@ -189,7 +189,7 @@ max-height : 150px;
   right: -2%;
   top: 30%;
  
-
+opacity: 0.33;
 
 	
 		z-index:1;
@@ -215,7 +215,7 @@ max-height : 150px;
   top: 50%;
  
 
-
+opacity: 0.33;
 	
 		z-index:1;
  position: absolute;
