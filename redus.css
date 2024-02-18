@@ -237,6 +237,10 @@ div.top {
  margin-top: 60px;
 }
 
+a.nodeco{
+	text-decoration: none;
+	cursor: url(images/devil.png), auto;
+}
 p.redus {
 
   text-align: center;
@@ -257,6 +261,7 @@ p.redus {
 display: inline;
 
 border-radius: 5rem;
+text-decoration: none;
  pointer-events: none;
 }
 
@@ -480,10 +485,6 @@ div.desc {
   text-align: right;
   
 }
-
-
-
-
 
 
 
