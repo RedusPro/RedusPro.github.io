@@ -1,0 +1,34 @@
+body.abduction {
+
+
+ background-image: url(images/death1.webp);
+ 
+	background-size: 100% auto;
+	background-position: top center;
+	background-attachment: fixed;
+		height: 100%;
+	background-image: linear-gradient(hsl(10,90,66), transparent 70%);
+	background-size: 100% 100%;
+	mix-blend-mode: normal;
+
+
+  background-repeat: no-repeat;
+background-size: cover;
+
+
+}
+
+
+div.abduction{
+	  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  
+}
+
+a{
+	margin-left:0px;
+	 text-decoration: none;
+	 font-size: 150%;
+}
