@@ -24,4 +24,11 @@ div.porte{
   margin-left: auto;
   margin-right: auto;
   width: 50%;
+  
+}
+
+a{
+	margin-left:0px;
+	 text-decoration: none;
+	 font-size: 150%;
 }
