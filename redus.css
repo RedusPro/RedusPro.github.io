@@ -334,9 +334,10 @@ pre.devil {
 }
 
 .moving-box p {
+	  text-decoration: none;
   white-space: nowrap;
   animation: moveRightToLeft 20s linear infinite; 
-  text-decoration: none;
+
 }
 .moving-box a {
 	text-decoration: none;
